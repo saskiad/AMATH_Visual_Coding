@@ -4,6 +4,6 @@ Use the Allen Brain Observatory Visual Coding 2-photon calcium imaging dataset t
 
 This lesson has two notebooks.
 
-Tuning curve</b>. This notebook walks through how to compute the tuning curve of a neuron to the Drifting Gratings stimulus.
+Computing tuning curve</b>. This notebook walks through how to compute the tuning curve of a neuron to the Drifting Gratings stimulus.
 
-Compare neurons. This notebook uses what was done in notebook 1 to compute tuning curves for a variety of neurons in order to compare the types of responses we find in the mouse primary visual cortex.
+Homework: compare neurons. This notebook uses what was done in notebook 1 to compute tuning curves for a variety of neurons in order to compare the types of responses we find in the mouse primary visual cortex. This will be your homework assignment.
